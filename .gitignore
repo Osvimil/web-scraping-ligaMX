@@ -1,0 +1,7 @@
+# Archivo .gitignore (contenido mínimo para Python)
+venv/
+.venv/
+_pycache_/
+*.pyc
+.env
+.vscode/
